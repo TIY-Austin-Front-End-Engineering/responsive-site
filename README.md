@@ -46,6 +46,8 @@ Using the breakpoint images below, create the the website using HTML and CSS. Fo
 3. [Breakpoint 3](/breakpoint3.png) - 767px to 978px
 4. [Breakpoint 4](/breakpoint4.png) - 979px and larger
 
+The image used on this website [can be found here](/background.jpg).
+
 
 ## Notes
 
