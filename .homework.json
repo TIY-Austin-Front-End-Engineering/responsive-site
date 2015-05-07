@@ -1,0 +1,27 @@
+{
+    "name": "responsive-site",
+    "version": "0.0.1",
+    "title": "Responsive Site",
+    "description": "This assignment will walk you through creating a fully responsive website from start to finish.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "breakpoint",
+        "css",
+        "desktop",
+        "html",
+        "media queries",
+        "mobile",
+        "responsive",
+        "tablet"
+    ],
+    "supplementalFiles": [
+        "background.jpg",
+        "breakpoint1.png",
+        "breakpoint2.png",
+        "breakpoint3.png",
+        "breakpoint4.png"
+    ]
+}
