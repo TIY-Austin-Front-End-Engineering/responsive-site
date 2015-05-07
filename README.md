@@ -53,6 +53,8 @@ The image used on this website [can be found here](/background.jpg).
 
 For the first three breakpoints, the content (pricing boxes and paragraphs) should stretch to fit the width of the page as it scales. For the fourth breakpoint, the content should max out at 980px and not grow larger than that. Instead it should stay centered on the page.
 
+I recommend that you glance over all of the breakpoints before you write any code to get a feel for how the different elements move around. Structure your HTML in a way that will make it easy to make these adjustments **only using css**. We can't modify our HTML based on page width, only our CSS, so your HTML needs to remain consistent no-matter what the width of the page is.
+
 ## Additional Resources
 
 * Read [css-media-queries](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/css-media-queries)
