@@ -21,8 +21,6 @@ After completing this assignment, you be able to effectively use
 * CSS media queries
 * Advanced CSS properties
 
-
-
 ## Details
 
 ### Deliverables
@@ -36,6 +34,7 @@ After completing this assignment, you be able to effectively use
 
 * No real W3C validation errors
 * The fourth breakpoint should have a fixed with of 980px for the main content.
+* You must use [Normalize.css](http://necolas.github.io/normalize.css/) for cross browser consistency.
 
 
 ## Normal Mode
