@@ -28,7 +28,7 @@ After completing this assignment, you be able to effectively use
 * A repo containing at least:
   * `index.html`
   * `images/background.png`
-  * `styles/main.css`
+  * `styles/main.scss`
 
 ### Requirements
 
