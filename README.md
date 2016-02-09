@@ -29,16 +29,26 @@ After completing this assignment, you be able to effectively use
   * `index.html`
   * `images/background.png`
   * `styles/main.scss`
+  * `sketches/breakpoint1.jpg`
+  * `sketches/breakpoint2.jpg`
+  * `sketches/breakpoint3.jpg`
+  * `sketches/breakpoint4.jpg`
 
 ### Requirements
 
-* No real W3C validation errors
 * The fourth breakpoint should have a fixed with of 980px for the main content.
 * You must use [Normalize.css](http://necolas.github.io/normalize.css/) for cross browser consistency.
 
 
 ## Normal Mode
-Using the breakpoint images below, create the the website using HTML and CSS. For each breakpoint, starting with the first, you *must* have at least one commit of your work. Starting with the mobile breakpoint first will save you a lot of headaches and is manditory for this assignment.
+Using the breakpoint images below, create the the website using HTML and CSS. For each breakpoint, starting with the first, you will do the following:
+
+1. Sketch out how the layout for that breakpoint will look. Upload that picture to your computer and put it in a folder called `sketches` within your github repository.
+1. Add, commit and push your picture.
+1. Write the HTML and CSS for your layout in an `index.html` file and `styles/main.scss` file. You must use sass for your CSS along with the sass command to compile it to css.
+1. Add, commit and push your code.
+
+### Breakpoints
 
 1. [Breakpoint 1](/breakpoint1.png) - 0 to 478px
 2. [Breakpoint 2](/breakpoint2.png) - 479px to 767px
@@ -47,6 +57,15 @@ Using the breakpoint images below, create the the website using HTML and CSS. Fo
 
 The image used on this website [can be found here](/background.jpg).
 
+## Hard Mode
+
+Using the breakpoint images below, create the the website using HTML and CSS. Try to re-use as much CSS as you can from the normal mode to make your life easier. Look for opportunities to to Sass variables, nesting, imports and mixins.
+
+### Breakpoints
+
+1. [Breakpoint 1](/contact-breakpoint1.png) - 0 to 478px
+2. [Breakpoint 2](/contact-breakpoint2.png) - 767px to 978px
+3. [Breakpoint 3](/contact-breakpoint3.png) - 979px and larger
 
 ## Notes
 
